@@ -27,7 +27,7 @@ Download any Spotify song/album/playlist/artist
 Allow the following arguments for the command `spotload {song/album/playlist/artist}`
 ### `--path {your path}`
 Path to download the music file/folder
-### `--list`
+### `list`
 Path to a file that has a list of Spotify song/album/playlist/artist links
 ### `--quality`
 Allows you to set the audio quality in kbps
